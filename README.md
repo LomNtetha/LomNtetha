@@ -1,10 +1,9 @@
 ### Hi there 👋
-<h3 align="center">A passionate MERN Stack developer from Durban, South Africa.</h3>
+####<h3 align="center">A passionate MERN Stack developer from Durban, South Africa.</h3>
 - 🔭 I’m currently working on building a Python chatbot
 - 🌱 I’m currently learning and upskilling in Django, machine learning, and Python
 - 👯 I’m looking to collaborate on open-source projects.
 -  💬 Ask me about Python, Django, Express Js, Solidity for smart contracts, and machine learning
-- : +26650899604 or ntethalumkile@gmail.com
 
   
 
