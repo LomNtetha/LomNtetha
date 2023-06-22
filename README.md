@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm Lumkile Ntetha, and here's a little bit about me:
-- 🔭 I’m currently working on building a Python chatbot
+- 🔭 I’m currently working on building Django and Express Js Projects
 - 🌱 I’m currently learning and upskilling in Django, machine learning, and Python
 - 👯 I’m looking to collaborate on open-source projects.
 -  💬 Ask me about Python, Django, Express Js, Solidity for smart contracts, and machine learning
