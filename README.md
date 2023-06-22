@@ -1,5 +1,5 @@
 ### Hi there 👋
-####<h3 align="center">A passionate MERN Stack developer from Durban, South Africa.</h3>
+#### I'm Lumkile Ntetha, and here's a little bit about me:
 - 🔭 I’m currently working on building a Python chatbot
 - 🌱 I’m currently learning and upskilling in Django, machine learning, and Python
 - 👯 I’m looking to collaborate on open-source projects.
