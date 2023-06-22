@@ -9,6 +9,8 @@
 
 ## 📫 How to reach me:
 
+Feel free to reach out to me through any of these platforms. I'm always open to connecting and discussing interesting projects or ideas!
+
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LomNtetha)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18436710/lumkile-ntetha)
 [![SoloLearn](https://img.shields.io/badge/-SoloLearn-0097A7?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/18504735)
@@ -19,7 +21,6 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=26650899604)
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
 
-Feel free to reach out to me through any of these platforms. I'm always open to connecting and discussing interesting projects or ideas!
 
 ## GitHub activity streak:
 
