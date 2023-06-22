@@ -19,6 +19,9 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=26650899604)
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errolntetha&" alt="errolntetha" /></p>
+
+
 
 
 
