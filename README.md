@@ -17,6 +17,8 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=26650899604)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18436710/lumkile-ntetha)
 [![SoloLearn](https://img.shields.io/badge/-SoloLearn-0097A7?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/18504735)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
+
 
 
 
