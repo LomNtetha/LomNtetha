@@ -19,9 +19,9 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=26650899604)
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
 
-## Minhas atividades:
+## GitHub activity streak:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jeffersonsimaogoncalves&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/jeffersonsimaogoncalves)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/LomNtetha)
 
 
 
