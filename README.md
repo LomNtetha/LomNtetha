@@ -1,10 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building a Python chatbot
+- 🌱 I’m currently learning and upskilling in Django, machine learning, and Python
+- 👯 I’m looking to collaborate on open-source projects.
+-  💬 Ask me about Python, Django, Express Js, Solidity for smart contracts, and machine learning
+- 📫 How to reach me: +26650899604 or ntethalumkile@gmail.com
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 
 <!--
