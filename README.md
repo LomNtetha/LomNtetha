@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### I'm Lumkile Ntetha, and here's a little bit about me:
+- I'm committed to continuous learning and upskilling every day! 🌟📚. 
 - 🔭 I’m currently working on building chatbot (python) and digital wallet(Node js) projects.
 - 🌱 I’m currently learning and upskilling in Django, machine learning, and Python
 - 👯 I’m looking to collaborate on open-source projects.
