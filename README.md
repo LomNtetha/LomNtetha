@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on building a chatbot (python).
 - 🌱 I’m currently learning and upskilling in Django, machine learning, Solidity, and Python
 - 👯 I'm currently on the lookout for new job opportunities that align with my skills and passions.
--  💬 Ask me about Python, Django, Express Js, Solidity for smart contracts, and machine learning
 
   
 
