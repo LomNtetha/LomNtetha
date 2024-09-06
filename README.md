@@ -1,8 +1,7 @@
 ### Hi there 👋
 #### I'm Lumkile Ntetha, and here's a little bit about me:
 - 🌟📚 I'm committed to continuous learning and upskilling every day!
-- 🔭 I’m currently working on building a chatbot (python).
-- 🌱 I’m currently learning and upskilling in Django, machine learning, Solidity, and Python
+- 🌱 I’m currently learning and upskilling in Python
 - 👯 I'm currently on the lookout for new job opportunities that align with my skills and passions.
 
   
