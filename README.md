@@ -26,6 +26,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/LomNtetha)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent&hide=prs&count_private=true" /> 
+
 
 
 
