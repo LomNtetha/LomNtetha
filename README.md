@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning and upskilling in Python
 - 👯 I'm currently looking for new job opportunities that align with my skills and passions.
 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LomNtetha&theme=transparent" />   
 
 ## 📫 How to reach me:
 
