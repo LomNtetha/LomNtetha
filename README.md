@@ -29,6 +29,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent&hide=prs&count_private=true" /> 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LomNtetha)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LomNtetha)
+                
 
 
 
