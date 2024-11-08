@@ -26,7 +26,20 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/LomNtetha)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent" />
+
+<table>
+  <tr>
+    <td>
+    <a href="https://www.github.com/LomNtetha">
+        <img src="https://api.vaunt.dev/v1/github/entities/LomNtetha/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+    </a>
+    </td>
+    <td>
+      <a href="https://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LomNtetha)
                 
