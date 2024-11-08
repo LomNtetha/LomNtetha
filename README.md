@@ -5,12 +5,14 @@
 - 👯 I'm currently looking for new job opportunities that align with my skills and passions.
 
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: column;">
     <a href="https://github.com/LomNtetha"></a>
-        <div style="width: 45%; display: flex; flex-wrap: wrap;">
+    <div style="display: flex; flex-direction: column; width: 100%;">
+        <!-- Languages & Tools Used Section -->
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
             <h3>Languages & Tools Used</h3>
-            <div style="display: flex; flex-wrap: wrap;">
-                <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+                <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
                     <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 40px; height: 40px; margin: 5px;" />
@@ -40,12 +42,14 @@
                     </div>
                 </div>
             </div>
-        <div style="width: 45%;">
+        </div>
+        <div style="display: flex; flex-direction: column; align-items: flex-start;">
             <h3>Top Languages</h3>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LomNtetha&theme=transparent" />
         </div>
     </div>
 </div>
+
 
 
 
