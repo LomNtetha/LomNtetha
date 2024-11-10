@@ -48,18 +48,6 @@
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📫 How to reach me:
 
 #### Feel free to contact me through any of these platforms if you don't mind. I'm always open to connecting and discussing interesting projects or ideas!
