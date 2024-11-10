@@ -2,7 +2,7 @@
 #### I'm Lumkile Ntetha, and here's a little bit about me:
 - 🌟📚 I'm committed to continuous learning and upskilling every day!
 - 🌱 I’m currently learning and upskilling in Python
-- 👯 I'm currently looking for new job opportunities that align with my skills and passions.
+- 👯 I'm looking for new job opportunities aligning with my skills and passions.
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: column;">
@@ -78,11 +78,11 @@
 
  ## GitHub activity streak:
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://github.com/LomNtetha">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=LomNtetha)
