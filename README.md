@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning and upskilling in Python
 - 👯 I'm looking for new job opportunities aligning with my skills and passions.
 
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: column;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: row;">
     <a href="https://github.com/LomNtetha"></a>
-    <div style="display: flex; flex-direction: column; width: 100%;">
+    <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between;">
         <!-- Languages & Tools Used Section -->
-        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; width: 40%;">
             <h3>Languages & Tools Used</h3>
             <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
                 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -21,17 +20,15 @@
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" style="width: 40px; height: 40px; margin: 5px;" />
-                    </div>
-                    <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 40px; height: 40px; margin: 5px;" />
+                    </div>
+                    <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nginx/nginx-original.svg" alt="Nginx" style="width: 40px; height: 40px; margin: 5px;" />
-                    </div>
-                    <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px; margin: 5px;" />
                         <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 40px; height: 40px; margin: 5px;" />
@@ -43,12 +40,14 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <!-- Top Languages Section -->
+        <div style="display: flex; flex-direction: column; align-items: flex-start; width: 40%;">
             <h3>Top Languages</h3>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LomNtetha&theme=transparent" />
         </div>
     </div>
 </div>
+
 
 
 
