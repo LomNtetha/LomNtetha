@@ -1,52 +1,53 @@
+ <p align="center">
+          <a href="https://github.com/LomNtetha?tab=followers">
+            <img src="https://img.shields.io/github/followers/LomNtetha?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+          </a>
+             <img src="https://visitor-badge.laobi.icu/badge?page_id=LomNtetha&title=Profile%20Visitors" alt="Profile Visitors badge" style="vertical-align: middle; height: 28px;"/>
+ </p>
+        
 ### Hi there 👋
 #### I'm Lumkile Ntetha, and here's a little bit about me:
 - 🌟📚 I'm committed to continuous learning and upskilling every day!
 - 🌱 I’m currently learning and upskilling in Python
-- 👯 I'm looking for new job opportunities aligning with my skills and passions.
+- 👯 I'm seeking new job opportunities aligning with my skills and passions.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: row;">
     <a href="https://github.com/LomNtetha"></a>
     <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between;">
-        <!-- Languages & Tools Used Section -->
-        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; width: 40%;">
-            <h3>Languages & Tools Used</h3>
-            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
-                <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
-                    <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 40px; height: 40px; margin: 5px;" />
-                    </div>
-                    <div style="width: 14%; display: flex; justify-content: center; flex-direction: column; align-items: center;">
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nginx/nginx-original.svg" alt="Nginx" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 40px; height: 40px; margin: 5px;" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 40px; height: 40px; margin: 5px;" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Top Languages Section -->
-        <div style="display: flex; flex-direction: column; align-items: flex-start; width: 40%;">
-            <h3>Top Languages</h3>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LomNtetha&theme=transparent" />
-        </div>
+       
+
+<p align="center">
+  <!-- Languages & Tools Section -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px; width: 100%;">
+    <h3>Languages & Tools Used</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; width: 100%;">
+      <!-- Icon List -->
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 40px; height: 40px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nginx/nginx-original.svg" alt="Nginx" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 40px; height: 40px;" />
+      <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 40px; height: 40px;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 40px; height: 40px;" />
     </div>
-</div>
+  </div>
+</p>
+
+
 
 ## 📫 How to reach me:
 
@@ -61,16 +62,11 @@
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
 
 
- ## GitHub activity streak:
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://github.com/LomNtetha">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=LomNtetha&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" />
-</div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LomNtetha)
+### GitHub Activity and  Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats"/>
+</p>
                 
 
 
