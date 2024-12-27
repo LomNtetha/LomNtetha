@@ -63,10 +63,6 @@
 
 
 ### GitHub Activity and  Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 160px;" />
