@@ -72,12 +72,6 @@
 ## GitHub Trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
-
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/LomNtetha/LomNtetha/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/LomNtetha/LomNtetha/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-
                 
 
 
