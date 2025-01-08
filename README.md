@@ -66,9 +66,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 160px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats" style="height: 160px;" />
- 
 <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=LomNtetha&theme=radical" style="height: 160px;"/>
+   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats" style="height: 160px;" />-->
 </p>
 
 ## GitHub Trophy
