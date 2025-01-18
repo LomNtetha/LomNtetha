@@ -43,6 +43,8 @@
       <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 40px; height: 40px;" />
       <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 40px; height: 40px;" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 40px; height: 40px;" />
+     <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" style="width: 40px; height: 40px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 40px; height: 40px;" />
     </div>
   </div>
 </p>
