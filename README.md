@@ -33,8 +33,8 @@
   color: #f8f8f2;">
   <!-- Icon List -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 60px; height: 60px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 60px; height: 60px;" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 100px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 60px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 60px; height: 60px;" />
@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" style="width: 60px; height: 60px;" />
-  <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 60px; height: 60px;" />
+  <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 120px; height: 60px;" />
   <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 60px; height: 60px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 60px; height: 60px;" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" style="width: 60px; height: 60px;" />
