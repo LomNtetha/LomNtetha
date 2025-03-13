@@ -33,75 +33,29 @@
   border-radius: 10px; 
   color: #f8f8f2;">
   <!-- Icon List -->
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 100px; height: 60px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://nginx.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nginx/nginx-original.svg" alt="Nginx" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://bitbucket.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 120px; height: 60px;" />
-</a>
-<a href="https://swagger.io/" target="_blank">
-    <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.json.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://www.digitalocean.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" style="width: 60px; height: 60px;" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 60px; height: 60px;" />
-</a>
+ <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 100px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/express/express-original.svg" alt="Express.js" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/php/php-original.svg" alt="PHP" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/laravel/laravel-plain.svg" alt="Laravel" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" alt="Docker" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/nginx/nginx-original.svg" alt="Nginx" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" alt="Git" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/github/github-original.svg" alt="GitHub" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.svgporn.com/logos/postman.svg" alt="Postman" style="width: 120px; height: 60px;" />
+   <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 60px; height: 60px;" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 60px; height: 60px;" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" style="width: 60px; height: 60px;" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 60px; height: 60px;" />
 
 </div>
 </div>
