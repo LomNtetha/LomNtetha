@@ -33,7 +33,7 @@
   border-radius: 10px; 
   color: #f8f8f2;">
   <!-- Icon List -->
- <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
+<!--  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 100px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;" />
@@ -60,6 +60,11 @@
 </div>
 </div>
 </p>
+ -->
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,expressjs,nestjs,angular,nuxtjs,tailwind,sass,materialui,threejs,mysql,wordpress,mongodb,firebase,graphql,git,github,vscode,figma,docker,aws,azure&perline=13" />
+</div>
+
 
 ### Technical Profiles
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LomNtetha)
