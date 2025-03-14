@@ -60,7 +60,6 @@
 </div>
 </div>
 </p>
- -->
 <!-- <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,expressjs,nestjs,angular,nuxtjs,tailwind,sass,materialui,threejs,mysql,wordpress,mongodb,firebase,graphql,git,github,vscode,figma,docker,aws,azure&perline=13" />
 </div> -->
