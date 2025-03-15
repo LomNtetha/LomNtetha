@@ -21,17 +21,6 @@
   <!-- Languages & Tools Section -->
   <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px; width: 100%;">
     <h3>Languages & Tools Used</h3>
-  <div style="
-  display: grid; 
-  grid-template-columns: repeat(4, 1fr); 
-  gap: 20px; 
-  justify-items: center; 
-  align-items: center; 
-  padding: 20px; 
-  background-color: #2d2a55; /* Radical theme background */
-  border: 2px solid #ff79c6; /* Radical theme border */
-  border-radius: 10px; 
-  color: #f8f8f2;">
   <!-- Icon List -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
@@ -61,7 +50,7 @@
 </div>
 </p>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,js,nodejs,expressjs,mysql,postgresql,sqlite,docker,githubactions,nginx,ubuntu,postman,git,github,gitlab,bitbucket,css,html,vscode,aws&perline=13" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,php,laravel,js,nodejs,expressjs,jquery,mysql,postgresql,sqlite,docker,githubactions,nginx,ubuntu,postman,git,github,gitlab,bitbucket,css,html,anaconda,vscode,aws&perline=13" />
 </div>
 
 
