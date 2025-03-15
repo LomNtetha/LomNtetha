@@ -22,7 +22,7 @@
   <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px; width: 100%;">
     <h3>Languages & Tools Used</h3>
   <!-- Icon List -->
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
+<!--   <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" alt="Python" style="width: 60px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/django/django-plain.svg" alt="Django" style="width: 120px; height: 60px;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="FastAPI" style="width: 100px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px;" />
@@ -44,7 +44,7 @@
    <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" style="width: 60px; height: 60px;" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" style="width: 60px; height: 60px;" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" style="width: 60px; height: 60px;" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 60px; height: 60px;" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="width: 60px; height: 60px;" /> -->
 
 </div>
 </div>
