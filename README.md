@@ -6,7 +6,7 @@
  </p>
         
 ### Hi there 👋
-#### I'm Lumkile Ntetha A Software Engineer at MySOS, and here's a little bit about me:
+#### I'm Lumkile Ntetha here's a little bit about me:
 - 🌟📚 I'm committed to continuous learning and upskilling!
 - 🌱 I’m enhancing my Python proficiency and delving into Data Structures and Algorithms (DSA).
 - 👯 I have solved numerous LeetCode problems and achieved advanced proficiency in data structures and algorithms.
