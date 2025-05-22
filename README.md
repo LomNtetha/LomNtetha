@@ -63,7 +63,7 @@
 
 #### Feel free to reach out via any of the platforms listed below!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:ntethalumkile@gmail.com?subject=I’ve%just%20had%20a%20look%20at%20your%20GitHub)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:ntethalumkile@gmail.com?subject=I’ve%20just%20had%20a%20look%20at%20your%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumkile-ntetha-b9995a1aa/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ntethalumkile)
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
