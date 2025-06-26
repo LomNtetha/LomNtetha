@@ -10,7 +10,6 @@
 - 🌟📚 I'm committed to continuous learning and upskilling!
 - 🌱 I’m enhancing my Python proficiency and delving into Data Structures and Algorithms (DSA).
 - 👯 I have solved numerous LeetCode problems and achieved advanced proficiency in data structures and algorithms.
-- 💼  I'm seeking new job opportunities aligning with my skills and passions.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: row;">
     <a href="https://github.com/LomNtetha"></a>
