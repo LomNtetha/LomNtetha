@@ -78,4 +78,4 @@
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
