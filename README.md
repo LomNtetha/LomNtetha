@@ -68,14 +68,14 @@
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lomkile.ntetha/)
 
 
-### GitHub Activity and  Stats
+### GitHub Activity and  Stats  
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=LomNtetha&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 160px;" /> -->
-<img src="https://trophygh.kolioaris.xyz/?user=LomNtetha&theme=radical" style="height: 320px;"/>
+<img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=LomNtetha&theme=radical" style="height: 320px;"/>
    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats" style="height: 160px;" />-->
 </p>
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://trophygh.kolioaris.xyz/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
