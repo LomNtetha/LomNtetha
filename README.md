@@ -7,9 +7,9 @@
         
 ### Hi there 👋
 #### I'm Lumkile Ntetha. Here's a little bit about me:
-- 🌟📚 I'm committed to continuous learning and upskilling!
-- 🌱 I’m enhancing my Python proficiency and delving into Data Structures and Algorithms (DSA).
-- 👯 I have solved numerous LeetCode problems and achieved advanced proficiency in data structures and algorithms.
+- Focused on system architecture and building scalable, high-performance solutions.
+- Deepening my knowledge of software design patterns and architectural best practices.
+- Passionate about writing clean, maintainable code that stands the test of time.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; justify-content: space-between; flex-direction: row;">
     <a href="https://github.com/LomNtetha"></a>
