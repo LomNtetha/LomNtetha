@@ -78,4 +78,4 @@
 
 ## GitHub Trophy
 
-<img src="https://trophygh.kolioaris.xyz/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<!-- <img src="https://trophygh.kolioaris.xyz/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" /> -->
