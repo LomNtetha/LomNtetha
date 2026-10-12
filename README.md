@@ -76,6 +76,6 @@
    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=LomNtetha&theme=radical" alt="GitHub Streak Stats" style="height: 160px;" />-->
 </p>
 
-## GitHub Trophy
 
-<!-- <img src="https://trophygh.kolioaris.xyz/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" /> -->
+<!--## GitHub Trophy
+ <img src="https://trophygh.kolioaris.xyz/?username=LomNtetha&theme=radical&column=4" alt="GitHub Trophy" width="100%" /> -->
